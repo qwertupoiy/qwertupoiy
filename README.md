@@ -1,62 +1,38 @@
 # 👋 안녕하세요, 유도현입니다!
 
-**데이터의 흐름을 설계하고 안정적으로 돌리는 백엔드 개발자**입니다.  
-JSP/Servlet부터 Spring Boot, FastAPI, MongoDB까지 직접 다루며  
-"데이터를 수집 → 저장 → 분석 → 서비스로 전달"하는 전 과정을 구현했습니다.  
-현재는 백엔드 개발자로 시작해, 궁극적으로 **데이터 엔지니어**로 성장하는 것을 목표로 하고 있습니다.
+**데이터 흐름을 설계하고 안정적으로 돌리는 백엔드 개발자**입니다.  
+Spring Boot와 FastAPI를 중심으로, 데이터를 **수집 → 저장 → 분석 → 시각화**하는 흐름을 직접 구축해왔습니다.  
+현재는 백엔드 기반에서 출발해 **데이터 엔지니어**로 성장하는 것을 목표로 하고 있습니다.
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🧠 Tech Stack
 
+<div align="center">
+
+| Backend | Data / AI | Tools |
+|:--:|:--:|:--:|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+
+</div>
 
 ---
 
 ## 💼 Projects
 
-### [🔹 HonestPick](https://github.com/qwertupoiy/HonestPick)
-> 인증 기반 음식점 리뷰 및 예약 웹서비스  
-> JSP 기반으로 회원관리, 파일첨부 게시판, 예약·리뷰 기능 등을 직접 구현하며  
-> 백엔드 로직의 기초를 탄탄히 다졌습니다.
+### [HonestPick](https://github.com/qwertupoiy/HonestPick)
+> **JSP 기반 음식점 리뷰/예약 서비스**  
+> 인증 리뷰 시스템을 통해 신뢰도 높은 후기 문화를 구현했습니다.  
+> JSP/Servlet 구조로 백엔드 로직을 탄탄히 다지며, 커맨드 패턴과 DAO 구조를 직접 설계했습니다.
 
-- Model1 구조로 구현 후 MVC 구조로 리팩토링  
-- 다중 파일 업로드, 페이징/검색 기능, 커맨드 패턴 적용  
-- Oracle DB 연동 및 JDBC 기반 DAO 구조 설계
-
----
-
-### [🔹 Summarix (Team B)](https://github.com/qwertupoiy/Summarix)
-> AI 기반 경제 뉴스 요약·분석 웹서비스  
-> Spring Boot와 FastAPI를 결합해 데이터 분석 파이프라인을 구축했습니다.
-
-- Python(FastAPI)로 뉴스 요약·감성분석·트렌드 API 개발  
-- Spring Boot에서 통합 호출 및 대시보드 시각화  
-- MongoDB를 이용해 사용자 관심사 기반 추천 및 클릭 로그 수집
+### [Summarix](https://github.com/qwertupoiy/Summarix)
+> **AI 기반 경제 뉴스 요약·분석 웹서비스**  
+> Spring Boot ↔ FastAPI 연동으로 뉴스 요약·감성 분석·트렌드 시각화를 통합했습니다.  
+> MongoDB를 활용해 사용자 관심사 기반 추천과 클릭 로그 분석을 구현했습니다.
 
 ---
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwertupoiy&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertupoiy&layout=compact&theme=default)
-
----
-
-## 📫 Contact
-- **GitHub:** [qwertupoiy](https://github.com/qwertupoiy)  
-- **Portfolio:** [유도현 · Backend / Data Engineering Portfolio](https://qwertupoiy.github.io)  
-- **Email:** you@example.com  
-
----
-
-> “데이터가 흘러가는 길을 이해하고, 그 길을 안정적으로 만들어가는 개발자”
+## 📫 Links
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/qwertupoiy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://qwertupoiy.github.io)
+[![Email](https://img.shields.io/badge/Email-2D8CFF?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
