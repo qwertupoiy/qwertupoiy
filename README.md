@@ -1,45 +1,71 @@
-# 👋 안녕하세요, 유도현입니다!
+# Yoo Dohyun
 
-**데이터 흐름을 설계하고 안정적으로 돌리는 백엔드 개발자**입니다.  
-Spring Boot와 FastAPI를 기반으로 데이터를 **수집 → 저장 → 분석 → 서비스로 전달**하는  
-백엔드 중심 데이터 파이프라인을 직접 구축해왔습니다.  
-현재는 백엔드 개발자로 시작해, 궁극적으로 **데이터 엔지니어**로 성장하는 것을 목표로 하고 있습니다.
+데이터 흐름을 설계하고 안정적으로 운영하는 백엔드 개발자입니다.  
+Spring Boot와 FastAPI를 기반으로 데이터를 수집, 저장, 분석, 시각화하는 백엔드 파이프라인을 직접 구축해왔습니다.  
+현재는 백엔드 역량을 기반으로 데이터 엔지니어로 성장하는 것을 목표로 하고 있습니다.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-| Backend | Data / AI | Infra & Tools |
-|:--:|:--:|:--:|
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+<table>
+<tr>
+<td align="center" width="300"><strong>Backend</strong></td>
+<td align="center" width="300"><strong>Data / AI</strong></td>
+<td align="center" width="300"><strong>Infra / Tools</strong></td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Stats
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwertupoiy&show_icons=true&theme=default&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertupoiy&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=qwertupoiy&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="55%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertupoiy&layout=compact&theme=graywhite&hide_border=true" width="42%" />
 
 </div>
 
 ---
 
-## 📫 Links
+## Links
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/qwertupoiy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://qwertupoiy.github.io)
-[![Email](https://img.shields.io/badge/Email-2D8CFF?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+<a href="https://github.com/qwertupoiy">GitHub</a> • 
+<a href="https://qwertupoiy.github.io">Portfolio</a> • 
+<a href="mailto:you@example.com">Email</a>
 
 </div>
 
 ---
 
-> “데이터가 흘러가는 길을 이해하고, 그 길을 안정적으로 만들어가는 개발자”
+> 데이터가 흘러가는 길을 이해하고, 그 길을 안정적으로 만드는 개발자
