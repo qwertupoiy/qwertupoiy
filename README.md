@@ -21,7 +21,6 @@ Spring Boot와 FastAPI를 기반으로 데이터를 수집, 저장, 분석, 시�
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
 </td>
@@ -54,21 +53,47 @@ Spring Boot와 FastAPI를 기반으로 데이터를 수집, 저장, 분석, 시�
 
 <table>
 <tr>
-<td align="center" width="480"><strong>IDE / Tools</strong></td>
-<td align="center" width="480"><strong>Version Control & Collaboration</strong></td>
+<td align="center" width="320"><strong>Data / Analysis</strong></td>
+<td align="center" width="320"><strong>Infra / DevOps</strong></td>
+<td align="center" width="320"><strong>IDE / Tools</strong></td>
 </tr>
 <tr>
 <td align="center">
 
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+
+</td>
+<td align="center">
+
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/DBeaver-372923?style=flat"/>
 <img src="https://img.shields.io/badge/SQL%20Developer-F80000?style=flat"/>
 <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=flat"/>
 
 </td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="960"><strong>Version Control & Collaboration</strong></td>
+</tr>
+<tr>
 <td align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -83,10 +108,15 @@ Spring Boot와 FastAPI를 기반으로 데이터를 수집, 저장, 분석, 시�
 
 ---
 
-## Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=qwertupoiy&theme=flat&no-frame=true&row=1&column=6" />
+## Featured Projects
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/qwertupoiy&count_bg=%23EDEDED&title_bg=%23666666&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true"/>
+### 🔹 Summarix — AI 기반 경제 뉴스 요약 플랫폼
+경제 뉴스 데이터를 수집·가공하여 요약/분석 결과를 제공하는 웹 서비스  
+Repo: https://github.com/qwertupoiy/Summarix
+
+### 🔹 HonestPick — 리뷰 & 예약 기반 음식점 플랫폼
+예약 기반 인증을 통해 신뢰도 높은 리뷰 환경을 제공하는 웹 서비스  
+Repo: https://github.com/qwertupoiy/HonestPick
 
 ---
 
