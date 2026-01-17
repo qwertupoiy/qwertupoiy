@@ -125,7 +125,7 @@ Repo: https://github.com/qwertupoiy/HonestPick
 <div align="center">
 
 <a href="https://github.com/qwertupoiy">GitHub</a> • 
-<a href="https://qwertupoiy.github.io">Portfolio</a> • 
+<a href="https://qwertupoiy.github.io/portfolio">Portfolio</a> • 
 <a href="mailto:you@example.com">Email</a>
 
 </div>
