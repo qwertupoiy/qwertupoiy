@@ -112,11 +112,11 @@ Spring Boot와 FastAPI를 기반으로 데이터를 수집, 저장, 분석, 시�
 
 ### 🔹 Summarix — AI 기반 경제 뉴스 요약 플랫폼
 경제 뉴스 데이터를 수집·가공하여 요약/분석 결과를 제공하는 웹 서비스  
-Repo: https://github.com/qwertupoiy/Summarix
+Repo: https://github.com/dhhhuuo/Summarix
 
 ### 🔹 HonestPick — 리뷰 & 예약 기반 음식점 플랫폼
 예약 기반 인증을 통해 신뢰도 높은 리뷰 환경을 제공하는 웹 서비스  
-Repo: https://github.com/qwertupoiy/HonestPick
+Repo: https://github.com/dhhhuuo/HonestPick
 
 ---
 
@@ -124,9 +124,9 @@ Repo: https://github.com/qwertupoiy/HonestPick
 
 <div align="center">
 
-<a href="https://github.com/qwertupoiy">GitHub</a> • 
-<a href="https://qwertupoiy.github.io/portfolio">Portfolio</a> • 
-<a href="mailto:you@example.com">Email</a>
+<a href="https://github.com/dhhhuuo">GitHub</a> • 
+<a href="https://dhhhuuo.github.io/portfolio">Portfolio</a> • 
+<a href="mailto:qwertupoiy@gmail.com">Email</a>
 
 </div>
 
