@@ -124,11 +124,11 @@ Spring Boot와 FastAPI를 기반으로 데이터를 수집, 저장, 분석, 시�
 
 ### 🔹 Summarix — AI 기반 경제 뉴스 요약 플랫폼
 경제 뉴스 데이터를 수집·가공하여 요약/분석 결과를 제공하는 웹 서비스  
-Preview: [(포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/summarix.html) | Repo: [(Github 링크)](https://github.com/dhhhuuo/Summarix)
+Preview: [(Summarix 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/summarix.html) &nbsp; | &nbsp; Repo: [(Summarix Github 링크)](https://github.com/dhhhuuo/Summarix)
 
 ### 🔹 HonestPick — 리뷰 & 예약 기반 음식점 플랫폼
 예약 기반 인증을 통해 신뢰도 높은 리뷰 환경을 제공하는 웹 서비스  
-Preview: [(포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/honestpick.html) | Repo: [(Github 링크)](https://github.com/dhhhuuo/HonestPick)
+Preview: [(Summarix 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/honestpick.html) &nbsp; | &nbsp; Repo: [(Summarix Github 링크)](https://github.com/dhhhuuo/HonestPick)
 
 ---
 
