@@ -129,7 +129,7 @@ Preview: [(Summarix 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio
 
 ### 🔹 HonestPick — 리뷰 & 예약 기반 음식점 플랫폼
 예약 기반 인증을 통해 신뢰도 높은 리뷰 환경을 제공하는 웹 서비스  
-Preview: [(Summarix 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/honestpick.html) &nbsp; | &nbsp; Repo: [(Summarix Github 링크)](https://github.com/dhhhuuo/HonestPick)
+Preview: [(HonestPick 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/honestpick.html) &nbsp; | &nbsp; Repo: [(HonestPick Github 링크)](https://github.com/dhhhuuo/HonestPick)
 
 ---
 
