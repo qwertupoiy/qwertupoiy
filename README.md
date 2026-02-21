@@ -131,6 +131,10 @@ Preview: [(Summarix 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio
 예약 기반 인증을 통해 신뢰도 높은 리뷰 환경을 제공하는 웹 서비스  
 Preview: [(HonestPick 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/honestpick.html) &nbsp; | &nbsp; Repo: [(HonestPick Github 링크)](https://github.com/dhhhuuo/HonestPick)
 
+### 🔹 PersonalLedger — Spring Boot & MyBatis 기반 가계부 관리 플랫폼
+백엔드 기본기(CRUD, DB 스키마 설계, 배포) 확보를 위해 Spring Boot와 MyBatis로 구축한 통합 가계부 서비스  
+Preview: [(PersonalLedger 포트폴리오 링크)](https://dhhhuuo.github.io/portfolio/pages/projects/personalLedger.html) &nbsp; | &nbsp; Repo: [(PersonalLedger Github 링크)](https://github.com/dhhhuuo/PersonalLedger)
+
 ---
 
 > 데이터가 흘러가는 길을 이해하고,  
